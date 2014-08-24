@@ -4,7 +4,7 @@
 ## from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 ## and locally available at: 
 ## setwd("E:/Coursera/Getting and Cleaning Data")
-## Step 0: Reads all the relevant data in the datasets to  R without significantly
+## STEP 0: Reads all the relevant data in the datasets to  R without significantly
 ## changing original file names;investigate their size and appearance: names,
 ## dim(),str(),table(),summary(), etc
 features<- read.csv("UCI HAR Dataset/features.txt", sep="", header=FALSE) ## dim=561 by 2
