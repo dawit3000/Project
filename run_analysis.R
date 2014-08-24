@@ -1,6 +1,8 @@
 ## Dawit Aberra - 8/24/2014
 ## R Codes for "Getting and Cleaning Data"
-## for the data available at 
+## for the data available 
+## from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+## and locally available at: 
 ## setwd("E:/Coursera/Getting and Cleaning Data")
 ## Step 0: Reads all the relevant data in the datasets to  R without significantly
 ## changing original file names;investigate their size and appearance: names,
