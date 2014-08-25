@@ -14,6 +14,7 @@ Data was collected (and was available online for free) from the accelerometers f
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 Specifically, data for this project was available at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 An R script called run_analysis.R has been created that does the following: 
 (1)  Merges the training and the test sets to create one data set.
 (2)	Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -21,5 +22,7 @@ An R script called run_analysis.R has been created that does the following:
 (4)	Appropriately labels the data set with descriptive variable names. 
 (5)	Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 Please note that I do not claim originality, as hundreds of others may have already 
+
 Sincerely,
+
 Dawit Aberra
