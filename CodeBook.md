@@ -4,6 +4,8 @@ author: "Dawit Aberra"
 date: "Sunday, August 24, 2014"
 output: html_document
 ---
+Note: This CodeBook accompanies the R script run_analysis.R.
+
 Data was collected  from 30 volunteer “subjects” . Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) , which we call “activity labels” later, wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, the following was captured: 3-axial linear acceleration and; 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers were selected for generating the training data and 30% the test data.
 
 Initial step involved reading and studying data, which was available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. The data sets were read to a local folder  “UCI HAR Dataset/”  in to the following variables without changing names from the original files: “features”;  ” X_train”;  “ X_test”;   “y_train”;  “y_test”;  “subject_train”; “subject_test”; and “activity_labels”.
