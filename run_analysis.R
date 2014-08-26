@@ -1,4 +1,3 @@
-## Dawit Aberra - 8/24/2014
 ## R Codes for "Getting and Cleaning Data"
 ## for the data available 
 ## from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
