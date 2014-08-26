@@ -1,6 +1,6 @@
 ---
 title: "README.md"
-author: "Dawit Aberra"
+author: "dawit3000"
 date: "Sunday, August 24, 2014"
 output: html_document
 ---
@@ -25,4 +25,3 @@ Please note that I do not claim originality, as hundreds of others may have alre
 
 Sincerely,
 
-Dawit Aberra
