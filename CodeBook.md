@@ -22,6 +22,7 @@ The last step involved creation of  a second, independent tidy data set with the
 
 Variables in the tidy2.txt (description of each variable below is available at the original wider variable source:
 
+'''
 [1] "Group.1"                   "Group.2"                   "tBodyAccMEANX"           
 [4] "tBodyAccMEANY"             "tBodyAccMEANZ"            "tBodyAccSTDX"            
  [7] "tBodyAccSTDY"             "tBodyAccSTDZ"             "tGravityAccMEANX"        
@@ -46,5 +47,6 @@ Variables in the tidy2.txt (description of each variable below is available at t
 [64] "fBodyBodyAccJerkMagSTD"   "fBodyBodyGyroMagMEAN"     "fBodyBodyGyroMagSTD"     
 [67] "fBodyBodyGyroJerkMagMEAN" "fBodyBodyGyroJerkMagSTD" 
 
+'''
  Please see the “Readme.md” file for further info or links to the datasets.
 
