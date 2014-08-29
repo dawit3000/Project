@@ -20,7 +20,7 @@ STEP 3 and 4 involved the use of descriptive activity names to name the activiti
 
 The last step involved creation of  a second, independent tidy data set with the average of  each variable for each activity and each subject. The last tidy data would be available  as “tidy2” in the R-environment or as “tidy2.txt” in the working local directory.
 
-Variables in the tidy2.txt (description of each variable below is available at the original wider variable source:
+Variables in the tidy2.txt (description of each variable below is available at the original wider variable source):
 
 ```
 [1] "Group.1"                   "Group.2"                   "tBodyAccMEANX"           
