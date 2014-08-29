@@ -20,5 +20,31 @@ STEP 3 and 4 involved the use of descriptive activity names to name the activiti
 
 The last step involved creation of  a second, independent tidy data set with the average of  each variable for each activity and each subject. The last tidy data would be available  as “tidy2” in the R-environment or as “tidy2.txt” in the working local directory.
 
+Variables in the tidy2.txt (description of each variable below is available at the original wider variable source:
+
+[1] "Group.1"                  "Group.2"                  "tBodyAccMEANX"           
+ [4] "tBodyAccMEANY"            "tBodyAccMEANZ"            "tBodyAccSTDX"            
+ [7] "tBodyAccSTDY"             "tBodyAccSTDZ"             "tGravityAccMEANX"        
+[10] "tGravityAccMEANY"         "tGravityAccMEANZ"         "tGravityAccSTDX"         
+[13] "tGravityAccSTDY"          "tGravityAccSTDZ"          "tBodyAccJerkMEANX"       
+[16] "tBodyAccJerkMEANY"        "tBodyAccJerkMEANZ"        "tBodyAccJerkSTDX"        
+[19] "tBodyAccJerkSTDY"         "tBodyAccJerkSTDZ"         "tBodyGyroMEANX"          
+[22] "tBodyGyroMEANY"           "tBodyGyroMEANZ"           "tBodyGyroSTDX"           
+[25] "tBodyGyroSTDY"            "tBodyGyroSTDZ"            "tBodyGyroJerkMEANX"      
+[28] "tBodyGyroJerkMEANY"       "tBodyGyroJerkMEANZ"       "tBodyGyroJerkSTDX"       
+[31] "tBodyGyroJerkSTDY"        "tBodyGyroJerkSTDZ"        "tBodyAccMagMEAN"         
+[34] "tBodyAccMagSTD"           "tGravityAccMagMEAN"       "tGravityAccMagSTD"       
+[37] "tBodyAccJerkMagMEAN"      "tBodyAccJerkMagSTD"       "tBodyGyroMagMEAN"        
+[40] "tBodyGyroMagSTD"          "tBodyGyroJerkMagMEAN"     "tBodyGyroJerkMagSTD"     
+[43] "fBodyAccMEANX"            "fBodyAccMEANY"            "fBodyAccMEANZ"           
+[46] "fBodyAccSTDX"             "fBodyAccSTDY"             "fBodyAccSTDZ"            
+[49] "fBodyAccJerkMEANX"        "fBodyAccJerkMEANY"        "fBodyAccJerkMEANZ"       
+[52] "fBodyAccJerkSTDX"         "fBodyAccJerkSTDY"         "fBodyAccJerkSTDZ"        
+[55] "fBodyGyroMEANX"           "fBodyGyroMEANY"           "fBodyGyroMEANZ"          
+[58] "fBodyGyroSTDX"            "fBodyGyroSTDY"            "fBodyGyroSTDZ"           
+[61] "fBodyAccMagMEAN"          "fBodyAccMagSTD"           "fBodyBodyAccJerkMagMEAN" 
+[64] "fBodyBodyAccJerkMagSTD"   "fBodyBodyGyroMagMEAN"     "fBodyBodyGyroMagSTD"     
+[67] "fBodyBodyGyroJerkMagMEAN" "fBodyBodyGyroJerkMagSTD" 
+
  Please see the “Readme.md” file for further info or links to the datasets.
 
