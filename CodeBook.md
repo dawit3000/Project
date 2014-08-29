@@ -22,11 +22,11 @@ The last step involved creation of  a second, independent tidy data set with the
 
 Variables in the tidy2.txt (description of each variable below is available at the original wider variable source:
 
-[1] "Group.1"                  "Group.2"                  "tBodyAccMEANX"           
- [4] "tBodyAccMEANY"            "tBodyAccMEANZ"            "tBodyAccSTDX"            
- [7] "tBodyAccSTDY"             "tBodyAccSTDZ"             "tGravityAccMEANX"        
-[10] "tGravityAccMEANY"         "tGravityAccMEANZ"         "tGravityAccSTDX"         
-[13] "tGravityAccSTDY"          "tGravityAccSTDZ"          "tBodyAccJerkMEANX"       
+[1] "Group.1"             |     "Group.2"             |     "tBodyAccMEANX"           
+[4] "tBodyAccMEANY"       |    "tBodyAccMEANZ"       |    "tBodyAccSTDX"            
+ [7] "tBodyAccSTDY"       |      "tBodyAccSTDZ"             "tGravityAccMEANX"        
+[10] "tGravityAccMEANY"   |      "tGravityAccMEANZ"         "tGravityAccSTDX"         
+[13] "tGravityAccSTDY"    |      "tGravityAccSTDZ"          "tBodyAccJerkMEANX"       
 [16] "tBodyAccJerkMEANY"        "tBodyAccJerkMEANZ"        "tBodyAccJerkSTDX"        
 [19] "tBodyAccJerkSTDY"         "tBodyAccJerkSTDZ"         "tBodyGyroMEANX"          
 [22] "tBodyGyroMEANY"           "tBodyGyroMEANZ"           "tBodyGyroSTDX"           
